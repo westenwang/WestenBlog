@@ -3,7 +3,7 @@
  * @Date: 2025-04-26 09:30:04
  * @LastEditors: your Name
  * @LastEditTime: 2025-04-27 23:08:20
- * @Description: 
+ * @Description:
  */
 import type {
 	LicenseConfig,
