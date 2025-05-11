@@ -2,7 +2,7 @@
  * @Author: Westen
  * @Date: 2025-04-26 09:30:04
  * @LastEditors: your Name
- * @LastEditTime: 2025-04-27 23:08:20
+ * @LastEditTime: 2025-05-11 11:07:49
  * @Description:
  */
 import type {
@@ -15,7 +15,7 @@ import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
 	title: "Westen",
-	subtitle: "Demo Site",
+	subtitle: "Fullstack(AI & Application)",
 	lang: "zh_CN", // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
 	themeColor: {
 		hue: 250, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
