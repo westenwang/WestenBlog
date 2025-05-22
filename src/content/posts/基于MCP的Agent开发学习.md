@@ -15,12 +15,8 @@ MCP的应用价值
 - 金融：智能投顾系统开发
 - 教育：智能教学工具开发
 
-![图片](https://datawhale-business.oss-cn-hangzhou.aliyuncs.com/image/1747249300075/image.png)
-
 **学技术最好的方式 =** 
 **选感兴趣、有前景的方向+做项目**
-
-![AI Agent能力示意图](https://datawhale-business.oss-cn-hangzhou.aliyuncs.com/image/1747249324645/image.png)
 
 | **数字员工能力** | **技术要素**  | **技术价值** | **业务价值**                                    |
 | ---------------- | ------------- | ------------ | ----------------------------------------------- |
@@ -46,16 +42,11 @@ Agent落地痛点
 
 MCP模型上下文协议（Model Context Protocol）是一个开源协议，由Anthropic（Claude开发公司）开发，类似AI应用的通用接口，连接如文件、数据库、API等接口，帮助开发者构建更灵活、更具上下文感知能力的AI应用。
 
-![Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions](https://datawhale-business.oss-cn-hangzhou.aliyuncs.com/image/1747250845477/image.png)
-
-
 ### 剩余Token额度查看
 
 https://help.aliyun.com/zh/model-studio/new-free-quota#ae73d86c7f2ub
 
 - **手动暂停调用**：在[阿里云百炼控制台](https://bailian.console.aliyun.com/#/home)中，您可以主动停止对模型的调用。例如，通过关闭相关的API服务或暂停应用程序对模型的请求。
-
-
 
 
 
