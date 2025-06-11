@@ -9,6 +9,8 @@ draft: false
 lang: ''
 ---
 
+Rust基础学习，学习了解模式匹配、Trait等概念及项目结构。
+
 ### 流程控制
 
 - 常见控制语句`if`，`for`，`while`，`loop`
